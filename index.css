@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #333;
+
+}
+.header{
+    background-color:darkblue;
+    color: beige;
+    padding: 20px ;
+    text-align: center;
+}
+
+.nombre{
+    margin: 5px 0 0;
+
+}
+
+.titulo{
+    margin: 5px 0 0;
+    font-size: 1.2 en;
+
+
+}
+
+.navegacion{
+
+}
+.nav-list{
+
+}
+.nav-link{
+    color: white;
+    margin: 0 15 px;
+    text-decoration:none;
+
+}
+.nav-link_hover{
+    text-decoration: ;
+}
+
+
+.seccion{
+    padding: 30px;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+
+.seccion-titulo{
+    color:blueviolet;
+    
+}
+.seccion-texto{
+    
+}
